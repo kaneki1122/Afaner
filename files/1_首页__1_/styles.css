@@ -78,6 +78,7 @@
   width:375px;
   height:667px;
   overflow:hidden;
+  touch-action:none;
 }
 #u4_state0 {
   border-width:0px;
